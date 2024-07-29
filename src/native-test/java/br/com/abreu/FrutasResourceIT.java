@@ -3,6 +3,6 @@ package br.com.abreu;
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
 @QuarkusIntegrationTest
-class ExampleResourceIT extends ExampleResourceTest {
+class FrutasResourceIT extends FrutasResourceTest {
   // Execute the same tests but in packaged mode.
 }
